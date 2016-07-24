@@ -1,0 +1,1 @@
+add_lunch_combo omni_nexbox_a95x-userdebug
